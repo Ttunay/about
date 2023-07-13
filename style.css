@@ -108,14 +108,12 @@ ul{
     font-size: 74px;
 }
 .information{
-    border: 1px solid green;
     width: auto;
     height:950px;
 }
 .box{
     width: auto;
     height: 2000px;
-    border: 1px solid rgb(187, 18, 18);
 }
 .dog{
     display: flex;
